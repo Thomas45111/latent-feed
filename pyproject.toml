@@ -1,0 +1,5 @@
+[project]
+name = "latent-feed"
+version = "0.1.0"
+description = "Automated AI news aggregation that feeds directly into your Obsidian vault. Stay current on the latest LLM research, trending repos, and breakthroughs — curated daily"
+requires-python = ">=3.10"
